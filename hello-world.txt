@@ -1,2 +1,2 @@
-Hello_World!
+Hello-World!
 I am learning how to use Git from The Odin Project.
